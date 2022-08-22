@@ -9,7 +9,7 @@
             <p>No Result</p>
         @endunless
     </div>
-    <div class="mt-6 p-4">
+    <div class="mt-6 p-5">
         {{ $recipes->links() }}
     </div>
 </x-layout>
